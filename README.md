@@ -329,6 +329,12 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 - Check existing issues before creating new ones
 - Provide detailed information and reproduction steps
 
+### Buy Me a Coffee ☕
+
+If you find this project helpful and it saves you time, consider buying me a coffee! Your support helps keep this project maintained and free for everyone.
+
+<a href="https://buymeacoffee.com/kylemicros" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## Acknowledgments
 
 Built with:

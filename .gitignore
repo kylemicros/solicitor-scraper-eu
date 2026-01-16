@@ -1,0 +1,22 @@
+.idea
+dist
+node_modules
+storage
+
+# Environment files
+.env*
+!.env.example
+
+# Excel files
+data
+
+temp
+
+# Logs
+logs
+*.log
+
+.DS_Store
+
+# Scraper process tracking
+.scraper-pids

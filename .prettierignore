@@ -1,0 +1,35 @@
+# Ignore artifacts:
+build
+coverage
+dist
+node_modules
+
+# Ignore all JSON files except tsconfig
+*.json
+!tsconfig.json
+!package.json
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore logs
+logs
+*.log
+
+# Ignore storage
+storage
+
+# Ignore temp files
+temp
+*.tmp
+
+# Ignore data files
+data
+Masterlist Excel
+
+# Ignore env files
+.env
+.env.*
+!.env.example

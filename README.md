@@ -2,6 +2,8 @@
 
 A highly configurable, production-ready web scraper for extracting business listings from directory websites. Built with TypeScript, Puppeteer, and Crawlee with advanced bot detection avoidance.
 
+And hey, it's FREE!
+
 ## So, why this setup?
 
 The following was already tested and deployed in the following platforms:
